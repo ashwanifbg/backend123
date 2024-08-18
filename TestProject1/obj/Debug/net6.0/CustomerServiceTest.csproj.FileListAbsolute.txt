@@ -1,0 +1,5 @@
+C:\Users\pulkit\source\repos\TestProject1\obj\Debug\net6.0\CustomerServiceTest.csproj.AssemblyReference.cache
+C:\Users\pulkit\source\repos\TestProject1\obj\Debug\net6.0\CustomerServiceTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pulkit\source\repos\TestProject1\obj\Debug\net6.0\CustomerServiceTest.AssemblyInfoInputs.cache
+C:\Users\pulkit\source\repos\TestProject1\obj\Debug\net6.0\CustomerServiceTest.AssemblyInfo.cs
+C:\Users\pulkit\source\repos\TestProject1\obj\Debug\net6.0\CustomerServiceTest.csproj.CoreCompileInputs.cache
