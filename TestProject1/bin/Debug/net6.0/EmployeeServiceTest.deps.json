@@ -1104,7 +1104,10 @@
           "Swashbuckle.AspNetCore": "6.5.0"
         },
         "runtime": {
-          "EmployeeService.dll": {}
+          "EmployeeService.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
